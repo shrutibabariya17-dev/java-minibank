@@ -1,0 +1,25 @@
+================================================
+          MINIBANK END-OF-DAY REPORT            
+================================================
+Generated : 2026-10-28 12:13:55
+Logs Dir  : G:\collage practicals\MiniBank-JAVA\data\logs
+------------------------------------------------
+
+File      : transactions.log
+Size      : 650 bytes
+Modified  : 2026-10-28 12:13:56
+Deposits  : Rs. 180000
+Withdrawals: Rs. 25000
+--------------------------------
+File      : test.log
+Size      : 21 bytes
+Modified  : 2026-10-28 12:12:54
+Deposits  : Rs. 2000
+Withdrawals: Rs. 0
+--------------------------------
+
+================================================
+TOTAL DEPOSITS    : Rs. 182000
+TOTAL WITHDRAWALS : Rs. 25000
+NET               : Rs. 157000
+================================================
